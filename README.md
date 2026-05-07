@@ -14,8 +14,7 @@
 
 ---
 
-### 🌐 Portfolio & Profiles
-- 🔗 Portfolio: https://manognaportfolio.lovable.app/
+### 🌐 Profiles
 - 💼 LinkedIn: https://www.linkedin.com/in/manogna-shree-dasari-08141a2a9/
 - 💻 LeetCode: https://leetcode.com/u/Manogna_Shree23/
 
